@@ -2,3 +2,5 @@ fruits
 strawberry
 banana
 honeydew
+strawberry
+kiwi
