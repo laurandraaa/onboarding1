@@ -2,4 +2,3 @@ fruits
 strawberry
 banana
 honeydew
-:wq
